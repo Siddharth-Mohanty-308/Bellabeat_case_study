@@ -8,7 +8,8 @@
   - [2.1 Business Task](#Business-Task)
   - [2.2 Key Stakeholders](#Key-Stakeholders)
 - [3. Prepare Phase](#Prepare-Phase)
-  - [Horizontal Rule](#horizontal-rule)
+  - [3.1 About the Dataset](#About-the-Dataset)
+  - [3.2 Data Credibility and Integrity](#Data-Credibility-and-Integrity)
 - [4. Process Phase](#extended-syntax)
   - [Table](#table)
   - [Task List](#task-list)
@@ -40,5 +41,19 @@ Identify trends in how consumers use Fitbit's smart devices to apply insights in
 * Bellabeat Marketing Analytics team
 ___
 ## Prepare Phase
+### About the Dataset
+
+The data source used for our case study is FitBit Fitness Tracker Data, which is open-source and is provided through Mobius. 
+
+The data is stored on kaggle in form of 18 .csv files and is in the long format. For our analysis we will only consider the 3 following files:
+* dailyActivity_merged
+* sleepDay_merged
+* weightLofInfo_merged
+
+### Data Credibility and Integrity 
+
+Due to the limitation of only 30 users and not having any demographic information we could encounter a sampling bias. We are not sure if the sample is representative of the whole population. 
+Another problem we would encounter is that the dataset is generic and not specific to women this is necessary as the product is focused on women
+The data is also updated 3 years ago and might not be relevent to the trends of current time. 
 
 #### Insert data here blah blah
