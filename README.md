@@ -5,8 +5,8 @@
 # Contents 
 - [1. Summary](#Summary)
 - [2. Ask Phase](#Ask-Phase)
-  - [2.1 Business Task](#2.1-Business-Task)
-  - [2.2 Key Stakeholders](#2.2-Key-Stakeholders)
+  - [2.1 Business Task](#2_1-Business-Task)
+  - [2.2 Key Stakeholders](#2_2-Key-Stakeholders)
 - [3. Prepare Phase](#Prepare-Phase)
   - [Horizontal Rule](#horizontal-rule)
 - [4. Process Phase](#extended-syntax)
