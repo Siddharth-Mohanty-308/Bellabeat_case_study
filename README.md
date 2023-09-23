@@ -52,8 +52,8 @@ The data is stored on kaggle in form of 18 .csv files and is in the long format.
 
 ### Data Credibility and Integrity 
 
-Due to the limitation of only 30 users and not having any demographic information we could encounter a sampling bias. We are not sure if the sample is representative of the whole population. 
-Another problem we would encounter is that the dataset is generic and not specific to women this is necessary as the product is focused on women
+Due to the limitation of only 30 users and not having any demographic information we could encounter a sampling bias. We are not sure if the sample is representative of the whole population.
+Another problem we would encounter is that the dataset is generic and not specific to women this is necessary as the product is focused on women.
 The data is also updated 3 years ago and might not be relevent to the trends of current time. 
 
 #### Insert data here blah blah
