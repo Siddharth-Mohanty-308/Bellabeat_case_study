@@ -2,7 +2,7 @@
 
 #### Add bellabeat logo image
 
-# <span style="color:#FA8072"> Contents </span>
+# Contents 
 - [1. Summary](#Summary)
 - [2. Ask Phase](#Ask-Phase)
   - [2.1 Business Task](#2.1-Business-Task)
