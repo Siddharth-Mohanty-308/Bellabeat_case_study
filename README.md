@@ -4,13 +4,21 @@
 
 # <span style="color:#FA8072"> Contents </span>
 - [1. Summary](#Summary)
-- [Ask Phase](#Ask-Phase)
-  - [Headings](#headings)
-- [3. Summary](#Summary)
+- [2. Ask Phase](#Ask-Phase)
+  - [2.1 Business Task](#Business-Task)
+  - [2.2 Key Stakeholders](#2.2-Key-Stakeholders)
+- [3. Prepare Phase](#Prepare-Phase)
   - [Horizontal Rule](#horizontal-rule)
-- [Extended Syntax](#extended-syntax)
+- [4. Process Phase](#extended-syntax)
   - [Table](#table)
   - [Task List](#task-list)
+- [5. Analyze Phase](#extended-syntax)
+  - [Table](#table)
+  - [Task List](#task-list)
+- [6. Share Phase](#extended-syntax)
+  - [Table](#table)
+  - [Task List](#task-list)
+
 ## Summary
 Bellabeat is a high-tech company that manufactures health-focused smart products for women. They offer different smart devices that collect data on activity, sleep, stress, and reproductive health to empower women with knowledge about their own health and habits. 
 
@@ -21,12 +29,16 @@ to the Bellabeat app to track activity, sleep, and stress.
 ___
 ## Ask Phase
 
-### 2.1 Business Task <a class="anchor" id="business_task_2_1"></a> 
+### 2.1 Business Task
 
-Identify trends in how consumers use non-Bellabeat smart devices to apply insights into Bellabeat’s marketing strategy. 
+Identify trends in how consumers use Fitbit's smart devices to apply insights into Bellabeat’s marketing strategy. 
 
-Stakeholders 
+### 2.2 Key Stakeholders 
 
 * Urška Sršen - Bellabeat cofounder and Chief Creative Officer 
 * Sando Mur - Bellabeat cofounder and key member of Bellabeat executive team 
-* Bellabeat Marketing Analytics team 
+* Bellabeat Marketing Analytics team
+___
+## Prepare Phase
+
+#### Insert data here blah blah
