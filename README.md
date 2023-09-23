@@ -5,8 +5,8 @@
 # Contents 
 - [1. Summary](#Summary)
 - [2. Ask Phase](#Ask-Phase)
-  - [2.1 Business Task](#2_1-Business-Task)
-  - [2.2 Key Stakeholders](#2_2-Key-Stakeholders)
+  - [2.1 Business Task](#Business-Task)
+  - [2.2 Key Stakeholders](#Key-Stakeholders)
 - [3. Prepare Phase](#Prepare-Phase)
   - [Horizontal Rule](#horizontal-rule)
 - [4. Process Phase](#extended-syntax)
@@ -29,11 +29,11 @@ to the Bellabeat app to track activity, sleep, and stress.
 ___
 ## Ask Phase
 
-### 2.1 Business Task
+### Business Task
 
 Identify trends in how consumers use Fitbit's smart devices to apply insights into Bellabeat’s marketing strategy. 
 
-### 2.2 Key Stakeholders 
+### Key Stakeholders 
 
 * Urška Sršen - Bellabeat cofounder and Chief Creative Officer 
 * Sando Mur - Bellabeat cofounder and key member of Bellabeat executive team 
